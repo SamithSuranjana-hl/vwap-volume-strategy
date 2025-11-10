@@ -1,8 +1,5 @@
 # vwap-volume-strategy
-#backtest around VWAP and volume momentum in 1min timeframe
-
-
-Project overview:
+Project overview: This is a trading strategy backtest and it's anlysis done for the S&P 500 ETF called 'SPY' using the indicators 'VWAP' and 'volume momentum' for 1min timeframe chart.
 
 Data source: Yahoo Finance (SPY, 1-min)
 
